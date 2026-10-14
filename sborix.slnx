@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Sborix.Api/Sborix.Api.csproj" />
+  <Project Path="Sborix.Application/Sborix.Application.csproj" />
+  <Project Path="Sborix.Domain/Sborix.Domain.csproj" />
+  <Project Path="Sborix.Infrastructure/Sborix.Infrastructure.csproj" />
+</Solution>

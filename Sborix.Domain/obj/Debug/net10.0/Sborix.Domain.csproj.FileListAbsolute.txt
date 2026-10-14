@@ -1,0 +1,4 @@
+c:\Projects\sborix\Sborix.Domain\obj\Debug\net10.0\Sborix.Domain.GeneratedMSBuildEditorConfig.editorconfig
+c:\Projects\sborix\Sborix.Domain\obj\Debug\net10.0\Sborix.Domain.AssemblyInfoInputs.cache
+c:\Projects\sborix\Sborix.Domain\obj\Debug\net10.0\Sborix.Domain.AssemblyInfo.cs
+c:\Projects\sborix\Sborix.Domain\obj\Debug\net10.0\Sborix.Domain.csproj.CoreCompileInputs.cache

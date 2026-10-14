@@ -1,0 +1,27 @@
+services:
+  postgres:
+    image: postgres:16-alpine
+    container_name: sborix_pg
+    environment:
+      POSTGRES_USER: sborix
+      POSTGRES_PASSWORD: sborix
+      POSTGRES_DB: sborix
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+      - ./init:/docker-entrypoint-initdb.d
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U sborix"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+  redis:
+    image: redis:7-alpine
+    container_name: sborix_redis
+    ports:
+      - "6379:6379"
+
+volumes:
+  pgdata:
