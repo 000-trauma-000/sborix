@@ -1,4 +1,4 @@
-namespace Entities.Catalog
+﻿namespace Entities.Catalog
 {
     /// <summary>Категория каталога (древовидная).</summary>
     public class Category : BaseEntity

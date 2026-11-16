@@ -1,0 +1,16 @@
+c:\Projects\sborix\Sborix.Application\obj\Debug\net10.0\Sborix.Application.csproj.AssemblyReference.cache
+c:\Projects\sborix\Sborix.Application\obj\Debug\net10.0\Sborix.Application.GeneratedMSBuildEditorConfig.editorconfig
+c:\Projects\sborix\Sborix.Application\obj\Debug\net10.0\Sborix.Application.AssemblyInfoInputs.cache
+c:\Projects\sborix\Sborix.Application\obj\Debug\net10.0\Sborix.Application.AssemblyInfo.cs
+c:\Projects\sborix\Sborix.Application\obj\Debug\net10.0\Sborix.Application.csproj.CoreCompileInputs.cache
+c:\Projects\sborix\Sborix.Application\obj\Debug\net10.0\Sborix.Application.sourcelink.json
+C:\Projects\sborix\Sborix.Application\bin\Debug\net10.0\Sborix.Application.deps.json
+C:\Projects\sborix\Sborix.Application\bin\Debug\net10.0\Sborix.Application.dll
+C:\Projects\sborix\Sborix.Application\bin\Debug\net10.0\Sborix.Application.pdb
+C:\Projects\sborix\Sborix.Application\bin\Debug\net10.0\Sborix.Domain.dll
+C:\Projects\sborix\Sborix.Application\bin\Debug\net10.0\Sborix.Domain.pdb
+C:\Projects\sborix\Sborix.Application\obj\Debug\net10.0\Sborix.A.C992EA5C.Up2Date
+C:\Projects\sborix\Sborix.Application\obj\Debug\net10.0\Sborix.Application.dll
+C:\Projects\sborix\Sborix.Application\obj\Debug\net10.0\refint\Sborix.Application.dll
+C:\Projects\sborix\Sborix.Application\obj\Debug\net10.0\Sborix.Application.pdb
+C:\Projects\sborix\Sborix.Application\obj\Debug\net10.0\ref\Sborix.Application.dll

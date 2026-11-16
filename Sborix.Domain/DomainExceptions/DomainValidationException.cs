@@ -1,4 +1,4 @@
-namespace Entities.DomainExceptions
+﻿namespace Entities.DomainExceptions
 {
     /// <summary>Некорректные данные (пустое имя, отрицательная цена и т.п.).</summary>
     public class DomainValidationException : DomainException

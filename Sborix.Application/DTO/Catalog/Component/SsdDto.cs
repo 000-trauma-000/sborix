@@ -1,4 +1,4 @@
-namespace Sborix.Application.DTO.Catalog
+﻿namespace Sborix.Application.DTO.Catalog
 {
     public class SsdDto : ComponentDto
     {

@@ -1,4 +1,4 @@
-using Entities.Chat;
+﻿using Entities.Chat;
 
 namespace Sborix.Application.DTO.Chat
 {

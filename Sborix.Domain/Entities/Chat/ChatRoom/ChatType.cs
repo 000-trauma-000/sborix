@@ -1,4 +1,4 @@
-namespace Entities.Chat
+﻿namespace Entities.Chat
 {
     /// <summary>Тип чата.</summary>
     public enum ChatType

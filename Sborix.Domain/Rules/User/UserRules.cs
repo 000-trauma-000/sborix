@@ -1,4 +1,4 @@
-namespace Entities.Rules.User
+﻿namespace Entities.Rules.User
 {
     using System.Text.RegularExpressions;
     using Entities.DomainExceptions;
@@ -28,12 +28,12 @@ namespace Entities.Rules.User
         public static void EnsureUserNameIsValid(string userName)
         {
             if (string.IsNullOrWhiteSpace(userName))
-                throw new DomainValidationException("Имя пользователя обязательно.", nameof(User.UserName));
+                throw new DomainValidationException("Имя пользователя обязательно.", nameof(User.Username));
 
             if (userName.Length > MaxUserNameLength)
                 throw new DomainValidationException(
                     $"Имя пользователя не может быть длиннее {MaxUserNameLength} символов.",
-                    nameof(User.UserName));
+                    nameof(User.Username));
         }
 
         /// <summary>Пароль достаточно длинный.</summary>

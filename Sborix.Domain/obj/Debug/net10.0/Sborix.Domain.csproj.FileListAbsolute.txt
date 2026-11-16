@@ -2,3 +2,11 @@ c:\Projects\sborix\Sborix.Domain\obj\Debug\net10.0\Sborix.Domain.GeneratedMSBuil
 c:\Projects\sborix\Sborix.Domain\obj\Debug\net10.0\Sborix.Domain.AssemblyInfoInputs.cache
 c:\Projects\sborix\Sborix.Domain\obj\Debug\net10.0\Sborix.Domain.AssemblyInfo.cs
 c:\Projects\sborix\Sborix.Domain\obj\Debug\net10.0\Sborix.Domain.csproj.CoreCompileInputs.cache
+c:\Projects\sborix\Sborix.Domain\obj\Debug\net10.0\Sborix.Domain.sourcelink.json
+C:\Projects\sborix\Sborix.Domain\bin\Debug\net10.0\Sborix.Domain.deps.json
+c:\Projects\sborix\Sborix.Domain\bin\Debug\net10.0\Sborix.Domain.dll
+c:\Projects\sborix\Sborix.Domain\bin\Debug\net10.0\Sborix.Domain.pdb
+c:\Projects\sborix\Sborix.Domain\obj\Debug\net10.0\Sborix.Domain.dll
+c:\Projects\sborix\Sborix.Domain\obj\Debug\net10.0\refint\Sborix.Domain.dll
+c:\Projects\sborix\Sborix.Domain\obj\Debug\net10.0\Sborix.Domain.pdb
+C:\Projects\sborix\Sborix.Domain\obj\Debug\net10.0\ref\Sborix.Domain.dll

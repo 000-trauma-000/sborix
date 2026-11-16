@@ -1,4 +1,4 @@
-namespace Entities
+﻿namespace Entities
 {
     public class AuditLog : BaseEntity
     {

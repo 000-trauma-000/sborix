@@ -1,4 +1,4 @@
-using Api.Exceptions;
+﻿using Api.Exceptions;
 using Microsoft.AspNetCore.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 

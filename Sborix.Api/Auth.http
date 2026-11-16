@@ -1,0 +1,42 @@
+@Sborix.Api_HostAddress = http://localhost:5046
+
+### Регистрация
+POST {{Sborix.Api_HostAddress}}/api/register
+Content-Type: application/json
+
+{
+  "username": "ivan_petrov",
+  "email": "ivan@example.com",
+  "password": "SecurePass123!",
+  "firstName": "Иван",
+  "lastName": "Петров"
+}
+
+### Вход
+POST {{Sborix.Api_HostAddress}}/api/authorize/login
+Content-Type: application/json
+
+{
+  "email": "ivan@example.com",
+  "password": "SecurePass123!"
+}
+
+### Обновление токена
+POST {{Sborix.Api_HostAddress}}/api/authorize/refresh
+Content-Type: application/json
+
+{
+  "accessToken": "",
+  "refreshToken": "",
+  "expiresAt": ""
+}
+
+### Выход
+POST {{Sborix.Api_HostAddress}}/api/authorize/logout
+Content-Type: application/json
+
+{
+  "accessToken": "",
+  "refreshToken": "",
+  "expiresAt": ""
+}

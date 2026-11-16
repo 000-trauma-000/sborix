@@ -1,4 +1,4 @@
-namespace Sborix.Application.DTO.Supply
+﻿namespace Sborix.Application.DTO.Supply
 {
     public class PricingPlanDto
     {

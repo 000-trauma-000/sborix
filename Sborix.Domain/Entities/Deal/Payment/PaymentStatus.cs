@@ -1,4 +1,4 @@
-namespace Entities.Deal
+﻿namespace Entities.Deal
 {
     /// <summary>Статус платежа.</summary>
     public enum PaymentStatus

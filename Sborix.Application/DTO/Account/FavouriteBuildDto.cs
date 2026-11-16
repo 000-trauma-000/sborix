@@ -1,4 +1,4 @@
-namespace Sborix.Application.DTO.Account
+﻿namespace Sborix.Application.DTO.Account
 {
     public class FavouriteBuildDto
     {

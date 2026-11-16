@@ -1,4 +1,4 @@
-namespace Entities.Supply
+﻿namespace Entities.Supply
 {
     /// <summary>Статус обработки жалобы.</summary>
     public enum ReportStatus

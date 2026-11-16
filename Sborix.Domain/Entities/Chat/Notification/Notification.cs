@@ -1,4 +1,4 @@
-namespace Entities.Chat
+﻿namespace Entities.Chat
 {
     /// <summary>Уведомление пользователя.</summary>
     public class Notification : BaseEntity

@@ -1,4 +1,4 @@
-namespace Entities.Rules.Report
+﻿namespace Entities.Rules.Report
 {
     using Entities.DomainExceptions;
     using Entities.Supply;

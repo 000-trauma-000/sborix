@@ -1,4 +1,4 @@
-namespace Sborix.Application.DTO.Chat
+﻿namespace Sborix.Application.DTO.Chat
 {
     public class ChatMessageDto
     {

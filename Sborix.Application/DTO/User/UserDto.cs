@@ -1,4 +1,4 @@
-namespace Sborix.Application.DTO.User
+﻿namespace Sborix.Application.DTO.User
 {
     public class UserDto
     {

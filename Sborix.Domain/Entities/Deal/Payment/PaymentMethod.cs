@@ -1,4 +1,4 @@
-namespace Entities.Deal
+﻿namespace Entities.Deal
 {
     /// <summary>Способ оплаты.</summary>
     public enum PaymentMethod

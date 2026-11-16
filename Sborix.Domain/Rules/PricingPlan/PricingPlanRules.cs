@@ -1,4 +1,4 @@
-namespace Entities.Rules.PricingPlan
+﻿namespace Entities.Rules.PricingPlan
 {
     using Entities.DomainExceptions;
     using Entities.Supply;

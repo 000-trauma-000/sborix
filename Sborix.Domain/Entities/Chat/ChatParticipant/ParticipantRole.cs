@@ -1,4 +1,4 @@
-namespace Entities.Chat
+﻿namespace Entities.Chat
 {
     /// <summary>Роль участника чата.</summary>
     public enum ParticipantRole

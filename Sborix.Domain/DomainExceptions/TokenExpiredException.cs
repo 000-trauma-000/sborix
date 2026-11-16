@@ -1,4 +1,4 @@
-namespace Entities.DomainExceptions
+﻿namespace Entities.DomainExceptions
 {
     /// <summary>Срок действия токена истёк — нужен refresh token.</summary>
     public class TokenExpiredException : DomainException

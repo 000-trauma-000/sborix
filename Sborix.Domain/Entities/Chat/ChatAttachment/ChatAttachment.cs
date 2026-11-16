@@ -1,4 +1,4 @@
-namespace Entities.Chat
+﻿namespace Entities.Chat
 {
     /// <summary>Вложение к сообщению.</summary>
     public class ChatAttachment : BaseEntity

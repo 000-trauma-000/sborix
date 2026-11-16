@@ -1,4 +1,4 @@
-namespace Entities.Catalog
+﻿namespace Entities.Catalog
 {
     /// <summary>Значение характеристики для конкретного компонента.</summary>
     public class SpecValue : BaseEntity

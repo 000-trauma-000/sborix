@@ -1,4 +1,4 @@
-namespace Entities.DomainExceptions
+﻿namespace Entities.DomainExceptions
 {
     /// <summary>Конфликт состояния (например, запись изменена другим пользователем).</summary>
     public class ConflictException : DomainException

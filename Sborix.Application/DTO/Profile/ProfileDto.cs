@@ -1,4 +1,4 @@
-namespace Sborix.Application.DTO.Profile
+﻿namespace Sborix.Application.DTO.Profile
 {
     public class ProfileDto
     {

@@ -1,4 +1,4 @@
-using Entities.Deal;
+﻿using Entities.Deal;
 
 namespace Sborix.Application.DTO.Deal
 {

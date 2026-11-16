@@ -1,4 +1,4 @@
-namespace Entities.DomainExceptions
+﻿namespace Entities.DomainExceptions
 {
     /// <summary>Нарушено бизнес-правило (например, нельзя отменить активную бронь).</summary>
     public class BusinessRuleViolationException : DomainException

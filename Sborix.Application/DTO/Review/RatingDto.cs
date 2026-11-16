@@ -1,4 +1,4 @@
-namespace Sborix.Application.DTO.Review
+﻿namespace Sborix.Application.DTO.Review
 {
     public class RatingDto
     {

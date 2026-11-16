@@ -1,4 +1,4 @@
-namespace Entities.Supply
+﻿namespace Entities.Supply
 {
     /// <summary>Жалоба (на сборку, компонент, пользователя или отзыв).</summary>
     public class Report : BaseEntity

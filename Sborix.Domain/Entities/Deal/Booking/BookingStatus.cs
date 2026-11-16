@@ -1,4 +1,4 @@
-namespace Entities.Deal
+﻿namespace Entities.Deal
 {
     /// <summary>Статус брони.</summary>
     public enum BookingStatus

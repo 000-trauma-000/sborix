@@ -1,4 +1,4 @@
-namespace Entities.Catalog
+﻿namespace Entities.Catalog
 {
     /// <summary>Характеристика (спецификация): «Объём памяти», «TDP» и т.п.</summary>
     public class Spec : BaseEntity

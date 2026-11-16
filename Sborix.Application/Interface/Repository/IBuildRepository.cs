@@ -1,5 +1,5 @@
-using Entities.Catalog;
-
+﻿using Entities.Catalog;
+using Application;
 
 namespace Repository.Interface
 {

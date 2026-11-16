@@ -1,4 +1,4 @@
-namespace Entities.Deal
+﻿namespace Entities.Deal
 {
     /// <summary>Платёж по брони.</summary>
     public class Payment : BaseEntity

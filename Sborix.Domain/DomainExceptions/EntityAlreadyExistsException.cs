@@ -1,4 +1,4 @@
-namespace Entities.DomainExceptions
+﻿namespace Entities.DomainExceptions
 {
     /// <summary>Попытка создать сущность с уже занятым уникальным значением (email, slug и т.п.).</summary>
     public class EntityAlreadyExistsException : DomainException

@@ -1,4 +1,4 @@
-using Entities.Catalog;
+﻿using Entities.Catalog;
 
 namespace Sborix.Application.DTO.Catalog
 {

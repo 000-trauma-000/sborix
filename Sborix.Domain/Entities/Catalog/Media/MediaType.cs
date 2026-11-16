@@ -1,4 +1,4 @@
-namespace Entities.Catalog
+﻿namespace Entities.Catalog
 {
     /// <summary>Тип медиафайла.</summary>
     public enum MediaType

@@ -1,4 +1,4 @@
-namespace Entities.Chat
+﻿namespace Entities.Chat
 {
     /// <summary>Участник чата.</summary>
     public class ChatParticipant : BaseEntity

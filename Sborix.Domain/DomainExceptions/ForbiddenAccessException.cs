@@ -1,4 +1,4 @@
-namespace Entities.DomainExceptions
+﻿namespace Entities.DomainExceptions
 {
     /// <summary>Пользователь авторизован, но у него нет прав на это действие.</summary>
     public class ForbiddenAccessException : DomainException

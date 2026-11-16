@@ -1,4 +1,4 @@
-namespace JWT.Dto
+﻿namespace JWT.Dto
 {
     public class RefreshRequestDto
     {

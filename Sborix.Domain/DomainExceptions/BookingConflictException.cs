@@ -1,4 +1,4 @@
-namespace Entities.DomainExceptions
+﻿namespace Entities.DomainExceptions
 {
     /// <summary>Выбранный период уже занят другой бронью.</summary>
     public class BookingConflictException : ConflictException

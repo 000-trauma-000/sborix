@@ -1,4 +1,4 @@
-namespace Entities.Rules.Build
+﻿namespace Entities.Rules.Build
 {
     using Entities.Catalog;
     using Entities.DomainExceptions;

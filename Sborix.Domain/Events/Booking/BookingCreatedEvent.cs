@@ -1,4 +1,4 @@
-namespace Entities.Events.Booking
+﻿namespace Entities.Events.Booking
 {
     /// <summary>Событие: бронь создана.</summary>
     public class BookingCreatedEvent : DomainEventBase

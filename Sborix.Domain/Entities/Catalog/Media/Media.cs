@@ -1,4 +1,4 @@
-namespace Entities.Catalog
+﻿namespace Entities.Catalog
 {
     /// <summary>Фото / видео / 3D-модель сборки или компонента.</summary>
     public class Media : BaseEntity

@@ -1,4 +1,4 @@
-namespace Entities.Rules.Payment
+﻿namespace Entities.Rules.Payment
 {
     using Entities.Deal;
     using Entities.DomainExceptions;

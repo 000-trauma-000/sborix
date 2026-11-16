@@ -1,4 +1,4 @@
-using Entities.Supply;
+﻿using Entities.Supply;
 
 namespace Sborix.Application.DTO.Supply
 {

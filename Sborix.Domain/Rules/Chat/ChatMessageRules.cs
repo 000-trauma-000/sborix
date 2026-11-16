@@ -1,4 +1,4 @@
-namespace Entities.Rules.Chat
+﻿namespace Entities.Rules.Chat
 {
     using Entities.Chat;
     using Entities.DomainExceptions;

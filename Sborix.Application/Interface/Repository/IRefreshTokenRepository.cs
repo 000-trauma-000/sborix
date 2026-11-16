@@ -1,12 +1,13 @@
-using Entities;
+﻿using Entities;
 
 namespace Repository.Interface
 {
     public interface IRefreshTokenRepository
     {
-        public void GetByTokenAsync(string Token);
-        public void GetActiveByUserIdAsync(Guid Id);
-        public void RevokeAllForUserAsync(Guid Id);
-        public void AddAsync(RefreshToken Token);
+        Task<RefreshToken?> GetByTokenAsync(string token);
+        Task<RefreshToken?> GetActiveByUserIdAsync(Guid id);
+        Task RevokeAllForUserAsync(Guid id);
+        Task AddAsync(RefreshToken token);
+        Task<int> SaveChangesAsync(CancellationToken cancellationToken = default);
     }
 }

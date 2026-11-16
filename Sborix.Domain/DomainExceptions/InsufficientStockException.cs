@@ -1,4 +1,4 @@
-namespace Entities.DomainExceptions
+﻿namespace Entities.DomainExceptions
 {
     /// <summary>Запрошенного количества нет в наличии.</summary>
     public class InsufficientStockException : DomainException

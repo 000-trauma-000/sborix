@@ -1,4 +1,4 @@
-namespace Entities.Interfaces
+﻿namespace Entities.Interfaces
 {
     /// <summary>
     /// Базовый репозиторий — общий набор операций над любой сущностью.

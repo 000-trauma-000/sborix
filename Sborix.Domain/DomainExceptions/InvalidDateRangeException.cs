@@ -1,4 +1,4 @@
-namespace Entities.DomainExceptions
+﻿namespace Entities.DomainExceptions
 {
     /// <summary>Дата начала позже даты окончания.</summary>
     public class InvalidDateRangeException : DomainException

@@ -1,4 +1,4 @@
-namespace Entities.Events
+﻿namespace Entities.Events
 {
     /// <summary>
     /// Доменное событие — факт о том, что в домене что-то произошло

@@ -1,4 +1,4 @@
-namespace Entities.DomainExceptions
+﻿namespace Entities.DomainExceptions
 {
     /// <summary>Неверный логин или пароль при входе.</summary>
     public class InvalidCredentialsException : DomainException

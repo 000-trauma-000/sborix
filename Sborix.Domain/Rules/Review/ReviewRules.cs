@@ -1,4 +1,4 @@
-namespace Entities.Rules.Review
+﻿namespace Entities.Rules.Review
 {
     using Entities.DomainExceptions;
     using Rating = Entities.Review.Rating;

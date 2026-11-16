@@ -1,4 +1,4 @@
-namespace Entities.DomainExceptions
+﻿namespace Entities.DomainExceptions
 {
     /// <summary>Сущность не найдена (по идентификатору или значению поля).</summary>
     public class EntityNotFoundException : DomainException

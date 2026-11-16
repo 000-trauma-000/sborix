@@ -1,4 +1,4 @@
-namespace Auth.JWT.Dto
+﻿namespace Auth.JWT.Dto
 {
     public class AuthResponseDto
     {

@@ -1,4 +1,4 @@
-namespace Entities.Catalog
+﻿namespace Entities.Catalog
 {
     /// <summary>Статус публикации сборки.</summary>
     public enum BuildStatus

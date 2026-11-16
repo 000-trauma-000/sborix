@@ -1,4 +1,4 @@
-namespace Entities.Supply
+﻿namespace Entities.Supply
 {
     /// <summary>Объект жалобы.</summary>
     public enum ReportTargetType

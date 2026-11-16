@@ -1,4 +1,4 @@
-namespace Entities.Account
+﻿namespace Entities.Account
 {
     /// <summary>Адрес пользователя (для доставки компонентов).</summary>
     public class UserAddress : BaseEntity
